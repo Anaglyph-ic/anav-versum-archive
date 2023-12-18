@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "PXtxfefKx",
+    "title": "Howdy Doo's @mironawire Collection",
+    "description": "Howdy Doo's @mironawire Collection",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1P719ymGCtNwavZKh2LmhMs53dGsEMzjnm",
+      "name": "tz1P719ymGCtNwavZKh2LmhMs53dGsEMzjnm",
+      "profile_image_uri": "ipfs://QmQwJzmzKWxoxjaJt2wUyd3k4NGWHMWbgwpmxVAUeNZYJu",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Howdy Doo NFT"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "e2fd6a8fd83c83faa8d75a4302beabe9b076c14b75c3be5126a79506e10dc312",
+          "formats": [
+            {
+              "uri": "ipfs://QmZRJTUwrD66my9SUfLg8Z7qMScK66zGTn18YGTzCfESek",
+              "fileName": "original.png",
+              "fileSize": 13713881,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "3000x4000"
+              }
+            },
+            {
+              "uri": "ipfs://QmcNqncuYNHEtnvvRqFGAmqM4kw8B2ErQxhQKjGaN6oC9p",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 243861,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2731"
+              }
+            },
+            {
+              "uri": "ipfs://QmQrFKmrNnrmvBEXNpv9WwFyTjB4Uxb38ogzzVvTNQvNoA",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 82183,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1365"
+              }
+            },
+            {
+              "uri": "ipfs://Qmbo1rFWwyaGAMXgdkAVWJ3XknGXeUHgMvpNSnQ9JocP4e",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 74170,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1280"
+              }
+            },
+            {
+              "uri": "ipfs://QmayxxRuenGnoXzU2sLaXmYjB1ghbWYHL9EqmGekaRchZN",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 26731,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x640"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 6804
+    }
+  ]
+}

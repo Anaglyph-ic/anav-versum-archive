@@ -1,0 +1,148 @@
+{
+  "info": {
+    "id": "w3txf2f4w",
+    "title": "Videoart",
+    "description": "Videoart by Ariel Gricio",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1Qg9wqiSSp77KpzNBZWPSQUcQGJRNQvdef",
+      "name": "tz1Qg9wqiSSp77KpzNBZWPSQUcQGJRNQvdef",
+      "profile_image_uri": "ipfs://QmeU8d1SZDHi3XB8ikKFtCD41NEvdxxgiUnDMy9mSERvmm",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Ariel Gricio"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "4946fc5980abb3b110db5a1e4e05811670e6339ef5cb393a0bb3dd1a009ee957",
+          "formats": [
+            {
+              "uri": "ipfs://QmZy6c1ei9W8vnkCu4NLhJvxajfWRyqSSFXvQsECREokBM",
+              "duration": "00:00:30",
+              "fileName": "original.mp4",
+              "fileSize": 38701680,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmXybT1FbFDXvhCykiDiay895juLRYaxb5KjZ5zXtHyCKF",
+              "duration": "00:00:30",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 7593245,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmQBFaBDwLuVWbAFUAmZVyYLk1zT9sCkM8fLn4qqm2C8wH",
+              "duration": "00:00:20",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 2706537,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmPDvS7tFbNUZXo9Dro5BhTY9XoHJAg6Pduw4BnPqe3JXK",
+              "fileName": "preview_image_1080w.jpg",
+              "fileSize": 168873,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmcmWvfhKoS11niaSvC4f6hFyjNiDCPLekcncXWskYsSD1",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 149302,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://Qmdq3RgQovd5BtW5gMxR8Kft75PKHXsprY9JyVFMg7ZtQr",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 136200,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmZBNnq31zrVpXqQ2e7cL3uGqXAV2CdTvRV1MxNgSmZTsm",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 47621,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "a46a26673f21514b1dbb8ad7c58f0785619a95793836026bf804f7862db390c5",
+          "formats": [
+            {
+              "uri": "ipfs://QmetbS43yqzKki9CVwgDueScp8F6h49R8tKgSQmepR12uU",
+              "duration": "00:00:18",
+              "fileName": "original.mp4",
+              "fileSize": 4896233,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "416x640"
+              }
+            },
+            {
+              "uri": "ipfs://QmRRnFyTRM6GL2vXiPEEHy6FepM1aFKFRTQaK95Qce5gth",
+              "duration": "00:00:18",
+              "fileName": "preview_video_416w.mp4",
+              "fileSize": 4116837,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "416x640"
+              }
+            },
+            {
+              "uri": "ipfs://QmXn81egP11TJdSJSdXv2JYanXfmTX1hfZdt2w3Q2UktyQ",
+              "fileName": "preview_image_416w.jpg",
+              "fileSize": 64142,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "416x640"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 1684
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 1341
+    }
+  ]
+}
