@@ -1,0 +1,72 @@
+{
+  "info": {
+    "id": "yatefqfJ5m",
+    "title": "dark crystal series",
+    "description": "Inspired by the visual concept of cybernetic crystal.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1V7ACG7U1FtvRFSfQGnTkyts74uWfFgsS5",
+      "name": "tz1V7ACG7U1FtvRFSfQGnTkyts74uWfFgsS5",
+      "profile_image_uri": "ipfs://QmWnjp6ddjniWK1oofPqa66sGginHk4FhqHmRyvoR3Pjna",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Black Orbital"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "da1b87d809cf834ce7328bddbf11232d405375baf8766257e4160c9abc979e41",
+          "formats": [
+            {
+              "uri": "ipfs://QmXEP8yBKQdZyewCGd4zQk7j3uv5wfzQ1SpRBjS1Ai1b15",
+              "fileName": "original.png",
+              "fileSize": 3362075,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "2000x2000"
+              }
+            },
+            {
+              "uri": "ipfs://QmYEohHssaf4BarJoG7zUKhRdt6QBTNdXxn1tVhUe4jcQM",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 207823,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmY7CL4FYcgzxcV5LTxCAokL49Dz3uSXvxLhpZMsQ2QVzE",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 186290,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmWcpfxSfwZ2zUiMkqoABzyoi7Y5RNoyQc8Qw4ZaZYk9gY",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 55776,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 11747
+    }
+  ]
+}

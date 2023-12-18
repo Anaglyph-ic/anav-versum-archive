@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "YPtEfpfv28",
+    "title": "VERSUMETRIC",
+    "description": "Designed by Guido Briones",
+    "cover_uri": "ipfs://QmYKpNJydRmnZJrRM2cffJHGyDAN8G1uPWw4ptNCDX4KZL",
+    "private": false,
+    "user": {
+      "id": "tz1WcanzLVHdgYVWpDs9gspmdmzc4XJNn8Zf",
+      "name": "tz1WcanzLVHdgYVWpDs9gspmdmzc4XJNn8Zf",
+      "profile_image_uri": "ipfs://Qme2cjuRsD1a3qALdKxQWyeAVNXBTRAq9Ks757s9yM4fHA",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "guido_briones_dsgn"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f814a7392fbb883b18d4dcb3d2277291e87573ba322e77316f47a2adb17b5fa0",
+          "formats": [
+            {
+              "uri": "ipfs://QmSLVn7yt1SPYqgHToR2BvVe5oodnnpwCJsN9eaCzvqzer",
+              "duration": "00:00:03.303300",
+              "fileName": "original.mp4",
+              "fileSize": 20546133,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1100x1100"
+              }
+            },
+            {
+              "uri": "ipfs://QmVRrBLozrQh3EhDE6EV9AKxxkfrfirw2idixpmtwmAYSY",
+              "duration": "00:00:03.304000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 318875,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmNVzqxXU5tAWUsuwr8tZMjUvYcrfSJLk3PvZaAt6z97vy",
+              "duration": "00:00:03.304000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 188469,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmU1k34f8d43rzeuseqpEtRzSo2DfqDfpCPergiDGPuz4B",
+              "fileName": "preview_image_1100w.jpg",
+              "fileSize": 54791,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1100x1100"
+              }
+            },
+            {
+              "uri": "ipfs://QmPWEQUM6qS9aKE1gWBcDrqmBNhm5aXV28auS2nBDXXrHe",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 48866,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmepPWLdDVYj1yRzJ3Ux7yfBj2ngQhwQ677FyGc59sfnCW",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 44955,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmY65KVyVDJMB37D1BTNBRbPH2u8FuwKfqt5yteyYEmjNs",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 18971,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 23198
+    }
+  ]
+}
