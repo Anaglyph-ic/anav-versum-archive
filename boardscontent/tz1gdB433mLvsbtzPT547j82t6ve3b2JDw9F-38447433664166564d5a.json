@@ -1,0 +1,52 @@
+{
+  "info": {
+    "id": "8Dt3fAfVMZ",
+    "title": "Arguments",
+    "description": "Argument Collaborations",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+      "name": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+      "profile_image_uri": "ipfs://QmbrdnffLUP69sLTv2PEYwNvNnDaxMAMeGhR8YK2964rtY",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "dribnet"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "2fe41e94a69d695854a62a3897362e2ef8227c4c8558e6d3fcd552b8e114acce",
+          "formats": [
+            {
+              "uri": "ipfs://QmW6ePxsojZruddWMmYzQBE5idW52E3ZebqnQf3VYgADnr",
+              "fileName": "",
+              "fileSize": 16327922,
+              "mimeType": "application/x-directory",
+              "dimensions": {
+                "unit": "pct",
+                "value": "100x100"
+              }
+            },
+            {
+              "uri": "ipfs://QmdsEaENzuTkHKzfFk5N2ChunbVjzcdDD2gbucMHjKwuQi",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 55988,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x270"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19346
+    }
+  ]
+}

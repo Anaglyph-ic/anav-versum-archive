@@ -1,0 +1,64 @@
+{
+  "info": {
+    "id": "1Ntxf2fn8p",
+    "title": "\"Copyminting\" the Artist",
+    "description": "This series is a creative coding exercise where I try to replicate an artists artwork as close as possible to the original.\n\nAll works are a collaboration between myself and the artist. They are 1/1 and all the proceeds will go towards a non profit / charity of the artists choice.\n\nThe process is documented on twitter, and you can access a link to each tweet by clicking on the `custom license` which should contain the link to the twitter thread where I explore the process.",
+    "cover_uri": null,
+    "private": false,
+    "user": {
+      "id": "tz1eht4WAjkqU7kaupJd8qCDmec9HuKfGf68",
+      "name": "tz1eht4WAjkqU7kaupJd8qCDmec9HuKfGf68",
+      "profile_image_uri": "ipfs://bafkreic7ttrmi4ikqwyay7grrxcrk5y73vbmd2kb4h4e7q22qmqx4nts5e",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "andrevenancio"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "09759a1a1d7633c15c1ee7615f5245b603c3a16dd610b7f4dcd5a71741f4ab56",
+          "formats": [
+            {
+              "uri": "ipfs://QmXiBC1Ae2ScXte2ydkwW1tmwosStdVuou8gzwRUrEB2UL",
+              "duration": "00:00:06.000000",
+              "fileName": "original.gif",
+              "fileSize": 2896220,
+              "mimeType": "image/gif",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x600"
+              }
+            },
+            {
+              "uri": "ipfs://QmTgCHKm9etFizTSao2KAh46d4djfzjWrgchL8trgDo6aq",
+              "duration": "00:00:06.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 660262,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://Qmf2eYe1CKaWYb91irX7YkWej2RuhWqDExvX4Ki2JoAgCv",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 39226,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21106
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "vXtnfOfY7",
+    "title": "Design Elements",
+    "description": "This is a collection of design elements",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1h6wCUjQLEviDy4Kk6dm5vERJRvCFQnGZu",
+      "name": "tz1h6wCUjQLEviDy4Kk6dm5vERJRvCFQnGZu",
+      "profile_image_uri": "https://services.tzkt.io/v1/avatars/tz1h6wCUjQLEviDy4Kk6dm5vERJRvCFQnGZu",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Orc Design"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "9883d1010a148da8768800f1255ace5754b1dc08e0c28183ec7428eb6dcb7be1",
+          "formats": [
+            {
+              "uri": "ipfs://QmNtmqNK1Tdbzwfh33uHhHec24FyEnZdXg6qh9jKwEZkT8",
+              "duration": "00:00:11",
+              "fileName": "original.mp4",
+              "fileSize": 43717446,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1280x1280"
+              }
+            },
+            {
+              "uri": "ipfs://QmXq4a4z1WVUkxww3WWSvzLrbFfEjKa6CDruCQui8CbYDp",
+              "duration": "00:00:11",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 653366,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmeDjvdP2XL5ZrVWm3JqmyY6vGVcH4JVJSMUn4DHsZSQyz",
+              "duration": "00:00:11",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 334540,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://Qmczv4oVnPu5ZWaAueCu828amXHMBEeFfR277xtCVKzutF",
+              "fileName": "preview_image_1280w.jpg",
+              "fileSize": 62297,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1280x1280"
+              }
+            },
+            {
+              "uri": "ipfs://QmcfiEAgDAJsRExpQqiAbMMgQv1nX8r2mf4gsniFUQrJtV",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 41120,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmScv4gSY1N7z1CUDtaCQe8H6Tu4BPxiDEZD2HUTqUPw3m",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 37328,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmVzeVYymaUie2yToYJ9YNDcYjgr8S9bqsFZEVWt3TzKDK",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 15083,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 320
+    }
+  ]
+}

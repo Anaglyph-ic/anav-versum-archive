@@ -1,0 +1,72 @@
+{
+  "info": {
+    "id": "JjtefWfDA",
+    "title": "Minimalism",
+    "description": "just the essentials",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1giw8gBvLEBXWeA4LnicFhLsLr8uj4mo6r",
+      "name": "tz1giw8gBvLEBXWeA4LnicFhLsLr8uj4mo6r",
+      "profile_image_uri": "ipfs://Qmbt4EskeAEkGvgHzEN2SUuSt9pV93Exrp3F69Pw6RgL66",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "gaianur"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "47f48510d514dc9fcc4c78fe3c4a5a0ca0c36b998194ab398802643ce0806fc4",
+          "formats": [
+            {
+              "uri": "ipfs://QmeDp4wST4qcEGuwnZScYaxWQGmUhTEZqRgHGTwGxEdDmT",
+              "fileName": "original.png",
+              "fileSize": 164351,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1670x2390"
+              }
+            },
+            {
+              "uri": "ipfs://QmTWLvW35b8W8afpDhEHDVRQA8j1pMSyfSkZrK388mSKTh",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 50854,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1465"
+              }
+            },
+            {
+              "uri": "ipfs://QmWR8Pv6f3ozWcXu1wL8GH84bPsMaKgkEDgg6Aw2yu6A8x",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 44651,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1374"
+              }
+            },
+            {
+              "uri": "ipfs://QmY2hwsYDTS6aBPV1tiGCnzvDtj63cZ5wUxpUi8Z9Vc4jE",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 15736,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x687"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3903
+    }
+  ]
+}
