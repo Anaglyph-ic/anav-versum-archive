@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "yatefqfaw",
+    "title": "MATH",
+    "description": "All about math.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1bF7X1tFsdGFpLiT1dW2czSzWiGwVjtwt3",
+      "name": "tz1bF7X1tFsdGFpLiT1dW2czSzWiGwVjtwt3",
+      "profile_image_uri": "ipfs://QmRdXYGbzwYYMdTNtH7MCJ3Es5dnAEURESe3xk1YNC9gXj",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "mergrini"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "e784060be3499a574414bb2372cc13dcc8fe096991ed2acf2f3c3976bd1e920a",
+          "formats": [
+            {
+              "uri": "ipfs://QmRfeos7rkcJSBjYbJmK7sy1DJucNsPcJKciLoepWVpLV4",
+              "fileName": "original.jpg",
+              "fileSize": 1549222,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "7700x5600"
+              }
+            },
+            {
+              "uri": "ipfs://QmdQX8B7cgYQLLAktQrZ5T1KQHTcZqaJyPhkUiFFj4hMug",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 779949,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x1489"
+              }
+            },
+            {
+              "uri": "ipfs://QmNyBvQj7rfJcAcBdpeEXnPFsX1gEBbNMCjEfb22QHSopu",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 239678,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x745"
+              }
+            },
+            {
+              "uri": "ipfs://QmdyDAPExeKW4Bhn3e8Am7PC2fcWXkLJ48h599heDtBWrw",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 212938,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x698"
+              }
+            },
+            {
+              "uri": "ipfs://QmZGWRxS6d5dnFjcGcRMpcqsQfD5NjjvWj7LWbMqYueW51",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 54328,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x349"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 490
+    }
+  ]
+}
