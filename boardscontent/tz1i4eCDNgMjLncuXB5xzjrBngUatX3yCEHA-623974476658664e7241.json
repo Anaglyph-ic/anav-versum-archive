@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "b9tGfXfNrA",
+    "title": "EPIC AI ART",
+    "description": "EPIC AI ART",
+    "cover_uri": "ipfs://bafkreic7dylze2jzuiz4ly46eqpwvrstpoo7ruww5mxoxmcmhzds7zldia",
+    "private": false,
+    "user": {
+      "id": "tz1i4eCDNgMjLncuXB5xzjrBngUatX3yCEHA",
+      "name": "tz1i4eCDNgMjLncuXB5xzjrBngUatX3yCEHA",
+      "profile_image_uri": "ipfs://bafkreihwxkq4t35265y7rrj77sddhjp243krbubwv2xa5yg2er33bmexdu",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "ArtDesignWorks.eth.co"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "ac5c37b0e7a25056a899a4d303532dc0c71b0ccceb92d3eb099ced5cfeb5e92c",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeihezvqrijyroghg4eig3ccoxut2aoezf7icjoamp4ux6njoe6ug5u",
+              "fileName": "original.jpg",
+              "fileSize": 11649504,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "4444x2963"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihymbnlaydq3vhvq7ltrj6i7bnfqhwrxurgu27q5hjxxkq4h2wqrq/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 499198,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x1365"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihymbnlaydq3vhvq7ltrj6i7bnfqhwrxurgu27q5hjxxkq4h2wqrq/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 148784,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x683"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihymbnlaydq3vhvq7ltrj6i7bnfqhwrxurgu27q5hjxxkq4h2wqrq/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 132779,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x640"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihymbnlaydq3vhvq7ltrj6i7bnfqhwrxurgu27q5hjxxkq4h2wqrq/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 43261,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x320"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 30947
+    }
+  ]
+}
