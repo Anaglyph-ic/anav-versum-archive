@@ -1,0 +1,72 @@
+{
+  "info": {
+    "id": "nDtrf0fq84",
+    "title": "Kwame's Wall",
+    "description": "My collection of purchased assets.",
+    "cover_uri": null,
+    "private": false,
+    "user": {
+      "id": "tz1LHVgEVguxmHGGQvjbrK3Rc4YXuFgqh966",
+      "name": "tz1LHVgEVguxmHGGQvjbrK3Rc4YXuFgqh966",
+      "profile_image_uri": "ipfs://Qmc8ncC1rPEvj97L5qpP26LfsURXMKJLQhEm6QGEB9AGRM",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Kwame"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "7e742e609742afd4f20a6c65fbcb0e8ef7a0e54c933e3fe2b6ecad1bd5eefea6",
+          "formats": [
+            {
+              "uri": "ipfs://QmY3M1tYSWYqJ8JJGydgjUskSXYRAyHbUb8qANiud7jwFX",
+              "fileName": "original.png",
+              "fileSize": 1405459,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "2000x2000"
+              }
+            },
+            {
+              "uri": "ipfs://QmZSZiggMZ1pRWFjfD2PG1aGxfZ2ppZHxyPr9L9ZjDAGDx",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 152728,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmZyBdTki9f39tEZPuRvxgXQhegcPx1Upw92aFFx2asV5R",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 138174,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://Qmcp8eNFxrtoDmtSL1neJd1HGBWJ1h9BXPBXEA5SMCC7i7",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 53629,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21277
+    }
+  ]
+}

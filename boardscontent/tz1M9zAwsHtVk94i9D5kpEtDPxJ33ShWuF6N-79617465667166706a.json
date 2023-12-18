@@ -1,0 +1,85 @@
+{
+  "info": {
+    "id": "yatefqfpj",
+    "title": "BEST OF VR",
+    "description": "My favourite VR creations on Versum",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1M9zAwsHtVk94i9D5kpEtDPxJ33ShWuF6N",
+      "name": "tz1M9zAwsHtVk94i9D5kpEtDPxJ33ShWuF6N",
+      "profile_image_uri": "ipfs://bafkreia7qlh5yusnvlbcyxmb3bxyzebgsinllpmz5ndlf4esow2q6cnrwm",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Krisztina Wagner"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "b42c3dbe234ad3833b74e1ec90359647fc7d9ab784b845eab0efbb3fc9631c1a",
+          "formats": [
+            {
+              "uri": "ipfs://QmfDeUPLTyv6CgHAQEgZz74yFtzooSrvJDUBC7gBr7vPn2",
+              "duration": "00:00:12",
+              "fileName": "original.mp4",
+              "fileSize": 904801,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x900"
+              }
+            },
+            {
+              "uri": "ipfs://QmZGP7ZyWhwmsBka5Sy2CNicDKvJwo63HDQ52Lz12NoLPT",
+              "duration": "00:00:12",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 832256,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "576x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmT2KGrdU2YRy4qf7qZC1md3UZx3UwNfnfrC5BjsfMtXsA",
+              "duration": "00:00:12",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 653972,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x600"
+              }
+            },
+            {
+              "uri": "ipfs://QmXT4KCWeopuq8CiNRZebdLueeCHp2fFqR8omCnaS4aqP3",
+              "fileName": "preview_image_720w.jpg",
+              "fileSize": 48677,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x900"
+              }
+            },
+            {
+              "uri": "ipfs://QmXGpJuit7wo5QkJ3pNy6triUPBp6uLCQYtiCvvQSxwVhu",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 29790,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x600"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 4
+    }
+  ]
+}

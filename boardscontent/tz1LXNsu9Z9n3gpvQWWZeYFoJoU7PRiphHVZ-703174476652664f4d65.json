@@ -1,0 +1,417 @@
+{
+  "info": {
+    "id": "p1tGfRfOMe",
+    "title": "Valkyr's GEN-0s",
+    "description": "My crew of darlings",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1LXNsu9Z9n3gpvQWWZeYFoJoU7PRiphHVZ",
+      "name": "tz1LXNsu9Z9n3gpvQWWZeYFoJoU7PRiphHVZ",
+      "profile_image_uri": "ipfs://QmTEEhiP4m1Qv3GczSAYBRYVhbgP7ZjmvDPrSCF7szA5Nc",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "valkyr.tez"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "0c44ce0ba48cdcd5a01d963c42f94036d3ec28ef04d617da5f33f79a29542d67",
+          "formats": [
+            {
+              "uri": "ipfs://QmNsWhi3gLVyY74bYFvdi4nAu8Dnys9jYUg3WUajJLZxdD",
+              "fileName": "original_4000h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3339x4000"
+              }
+            },
+            {
+              "uri": "ipfs://QmPW4JNtW6TxAjpRzWP7KGFSPgZCkANVMgWHFDhGHZMPFr",
+              "fileName": "preview_image_1294h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1294"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmPW4JNtW6TxAjpRzWP7KGFSPgZCkANVMgWHFDhGHZMPFr",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x1002"
+              }
+            },
+            {
+              "uri": "ipfs://QmcMtpwwU4xqFtA5JHFQWL23kGkZ5x4ue4Z9795f7L4xTA",
+              "fileName": "preview_image_863h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x863"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmPW4JNtW6TxAjpRzWP7KGFSPgZCkANVMgWHFDhGHZMPFr",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x501"
+              }
+            },
+            {
+              "uri": "ipfs://QmciLPNRj9XYfqVezw89dGqx912oSatSptL4CctXrFSsFX",
+              "fileName": "preview_image_350w",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmPW4JNtW6TxAjpRzWP7KGFSPgZCkANVMgWHFDhGHZMPFr",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x250"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmPW4JNtW6TxAjpRzWP7KGFSPgZCkANVMgWHFDhGHZMPFr",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x67"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "0ea690b1ccf0c7b956bfeb9ca3e75794733b29e5813a8fc73f2a1cc6252d88a0",
+          "formats": [
+            {
+              "uri": "ipfs://QmdqhYVGH6KvFzFrVJ1CU7ssRnKh84TFgeMp8GJUEUhtTd",
+              "fileName": "original_4000h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3339x4000"
+              }
+            },
+            {
+              "uri": "ipfs://QmRfU8eFQVR27xRvNEi49mLrNz1vhqGg6uCU2xUCvtqpwB",
+              "fileName": "preview_image_1294h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1294"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmRfU8eFQVR27xRvNEi49mLrNz1vhqGg6uCU2xUCvtqpwB",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x1002"
+              }
+            },
+            {
+              "uri": "ipfs://QmfRKZykZZqoveZGWqG9Yi24BweBQd9KLTRxXf6jayurcz",
+              "fileName": "preview_image_863h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x863"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmRfU8eFQVR27xRvNEi49mLrNz1vhqGg6uCU2xUCvtqpwB",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x501"
+              }
+            },
+            {
+              "uri": "ipfs://QmeZRygFSqwmcgdN7fGAwWXJRZ4cWwRgeh4MtyfaGhRwMZ",
+              "fileName": "preview_image_350w",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmRfU8eFQVR27xRvNEi49mLrNz1vhqGg6uCU2xUCvtqpwB",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x250"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmRfU8eFQVR27xRvNEi49mLrNz1vhqGg6uCU2xUCvtqpwB",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x67"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "87101c933c9321984d16061cca2e7af45cf955385d7d9eb8067e78812fd9fc3d",
+          "formats": [
+            {
+              "uri": "ipfs://QmP9PNf7U6RyC4Eet6kNtyGgwSh47RCnYrTvbZ6eskddKA",
+              "fileName": "original_4000h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3339x4000"
+              }
+            },
+            {
+              "uri": "ipfs://QmaDN23m3J5fJCwWgpg1hY9cndAXwMD4j4t3K8bGrAKRsB",
+              "fileName": "preview_image_1294h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1294"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmaDN23m3J5fJCwWgpg1hY9cndAXwMD4j4t3K8bGrAKRsB",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x1002"
+              }
+            },
+            {
+              "uri": "ipfs://QmcmuWHzWNPwG91CyYDMet9KV2zKTbLWqTuFDRftxNT7Y4",
+              "fileName": "preview_image_863h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x863"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmaDN23m3J5fJCwWgpg1hY9cndAXwMD4j4t3K8bGrAKRsB",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x501"
+              }
+            },
+            {
+              "uri": "ipfs://QmZX66kqw9WKWXXHY7EkWyw2gxWa2asJPFzVokhgZ5xvrQ",
+              "fileName": "preview_image_350w",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmaDN23m3J5fJCwWgpg1hY9cndAXwMD4j4t3K8bGrAKRsB",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x250"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmaDN23m3J5fJCwWgpg1hY9cndAXwMD4j4t3K8bGrAKRsB",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x67"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "96558383e209386a948ffdd98964e0e2cf6b394e201853dce48c56b25be23aa1",
+          "formats": [
+            {
+              "uri": "ipfs://QmU4neUN2tfK68z5HnuyEqZLPSw2K9x7NXmoqBRceJSXTd",
+              "fileName": "original_4000h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3339x4000"
+              }
+            },
+            {
+              "uri": "ipfs://QmTGmftDbs6YWoSmhi6hJ86Dqj64Lfe6nK5wHCZuby1RQa",
+              "fileName": "preview_image_1294h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1294"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmTGmftDbs6YWoSmhi6hJ86Dqj64Lfe6nK5wHCZuby1RQa",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x1002"
+              }
+            },
+            {
+              "uri": "ipfs://QmPfwkHeZcEAzmYJaS2qMRMoeyusQErEsZ4M9ekWkFDLHQ",
+              "fileName": "preview_image_863h",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x863"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmTGmftDbs6YWoSmhi6hJ86Dqj64Lfe6nK5wHCZuby1RQa",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x501"
+              }
+            },
+            {
+              "uri": "ipfs://QmSHQhHzJvHkY9iMMRAWsgX5MGx3p5BYrngrAFdvgrp6m8",
+              "fileName": "preview_image_350w",
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmTGmftDbs6YWoSmhi6hJ86Dqj64Lfe6nK5wHCZuby1RQa",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x250"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmTGmftDbs6YWoSmhi6hJ86Dqj64Lfe6nK5wHCZuby1RQa",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x67"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 2153
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1744
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 3234
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 405
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 2120
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1309
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 3617
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 4019
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 12
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 4728
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 681
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 2641
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 2743
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 3298
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1168
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1606
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 3893
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 2760
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1782
+    },
+    {
+      "contract": "KT1BfKnSKV6Wx45Cv4yjEYXViwuhmswby8Hp",
+      "tokenId": 1702
+    }
+  ]
+}
