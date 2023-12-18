@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "EvtPfXfbwR",
+    "title": "My collection",
+    "description": "My NFT",
+    "cover_uri": null,
+    "private": false,
+    "user": {
+      "id": "tz2TcvdFPWXs4CNwkCZXbjcsDHs78Bw4D2e8",
+      "name": "tz2TcvdFPWXs4CNwkCZXbjcsDHs78Bw4D2e8",
+      "profile_image_uri": "ipfs://QmWLUEQHpa3GvoCjgc8xgE4UfGCsoGXjrJXdTWH6jhhJH1",
+      "verified": false,
+      "verified_on_chain": false,
+      "screen_name": "Brick Tanner"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "6f13015b790f213137be153884e519924754192305acf94e25d60d45addbe23c",
+          "formats": [
+            {
+              "uri": "ipfs://QmYFrekuyNoUZLewAiexgDXiyuhwij2T7Zeqed7RpmZN3T",
+              "duration": "00:00:09.909900",
+              "fileName": "original.mp4",
+              "fileSize": 12479029,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1500x1500"
+              }
+            },
+            {
+              "uri": "ipfs://QmdH1z1DEjMJt2LzngnbYJKbAf9BYSKJEZyvZq5g8KiJ37",
+              "duration": "00:00:09.910000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 1232953,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmSB5ZYC9mm9ZY1k2V7MY6GrnCQPPWEemLMmk3Tae7bfvA",
+              "duration": "00:00:09.910000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 553591,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmVYHGpo4fAVHfSdZM35qy2XJVNee36f1FAz5S6zbC67qX",
+              "fileName": "preview_image_1500w.jpg",
+              "fileSize": 206517,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1500x1500"
+              }
+            },
+            {
+              "uri": "ipfs://QmYZ8kEdD3VjA6x64sZ3dvzNCDiddhcjmezEG2DtjPLFtW",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 97739,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmV7cU65bQzweXApSmggjbrpfrDLC8iZ3EiNcRpcAVCLcX",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 86060,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmT6T6mvCWNU52eTe8TEWx6rzDQ6jr4S2JFfU5HGfn7t6g",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 21130,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 26163
+    }
+  ]
+}
