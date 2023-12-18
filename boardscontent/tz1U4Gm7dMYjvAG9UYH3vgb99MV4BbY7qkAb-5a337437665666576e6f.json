@@ -1,0 +1,429 @@
+{
+  "info": {
+    "id": "Z3t7fVfWno",
+    "title": "Flame",
+    "description": "https://www.samuelab.com/portfolio-xr-architecture/flame",
+    "cover_uri": "ipfs://QmSwwv3StK52tqminUnGeiLkdgzqsARFdKGj4vVmanwwqv",
+    "private": false,
+    "user": {
+      "id": "tz1U4Gm7dMYjvAG9UYH3vgb99MV4BbY7qkAb",
+      "name": "tz1U4Gm7dMYjvAG9UYH3vgb99MV4BbY7qkAb",
+      "profile_image_uri": "ipfs://Qmba8soE5pXEXtZgySavMbrPnJvuxq3Xd7k4FTrbCCQHaj",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "SamuelAB"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f4e1607a5a999b66d45e53019fcf529fecbf4a031ed6721334ce20cae822d240",
+          "formats": [
+            {
+              "uri": "ipfs://QmUFYU74zx6GdtDNseeimLmYY2ocMqv7x16VNKRpErDQMN",
+              "duration": "00:00:52",
+              "fileName": "original.mp4",
+              "fileSize": 67276917,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmayY6rH8FXj7euvGAhBQTtZ4bHuiDk6eXFnvjF7NkQEbD",
+              "duration": "00:00:52",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 2535763,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmeQAyzBst47FLH32z6DCBghbfuAut6VtPygpVn88DBXPk",
+              "duration": "00:00:20",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 658426,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmbxwyD1ZQdscK6kUL1u2ZtVnXqQkRmoVxnm476FVnznGN",
+              "fileName": "preview_image_2160w.jpg",
+              "fileSize": 94666,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmQgKzsdrG6bZFeKyuqegRd82zN2j8QXgfmUTfDmMr4qQe",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 86532,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmaCS8AzMv844hrLHyH9xeZisZbieGRR3vxQDbXwvrTj9c",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 35870,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmbvTrGVAMQiMDtVSZVjwUQPZ8XLH7o3uM8Btur44HJ9Jg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 33113,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmcDN2BkfvRkuh284QhVHdV4TY82ppVXDbKBhWG2MbTfQh",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 13607,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "a8e899af1c12cab06ad3a654e5516f009ad6f51c744bfba7742ae7ff052e37bc",
+          "formats": [
+            {
+              "uri": "ipfs://QmUeHwb5T9xoUSr7AA7dLpkbtmpZfVJSSmSP4kv8u8siVg",
+              "duration": "00:00:52",
+              "fileName": "original.mp4",
+              "fileSize": 68442521,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmbSuqF3H4Hh9PPGtLBZ4GZ8eoUHZrymUjw6hSfKerRe8C",
+              "duration": "00:00:52",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 2425537,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmPFVr5dFy8SLumuURPgQxc5RmxXPRVNqo2HMNdWskawi8",
+              "duration": "00:00:20",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 648388,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmRRMepy3RWsKG9cp132vJvKC3z33dPHj6wq1orZ6P98WH",
+              "fileName": "preview_image_2160w.jpg",
+              "fileSize": 121278,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmcDJQP5CWpuvAroC5ndYLfABZzEuABmh7epbdXoTvRfRA",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 111226,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmXq9ckFZuVjRkJVSpUpDXhnYVNhn2NPgNPwDymAZJWEXY",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 46366,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmaUc1J1SsqSyRXHCCNZfQhWJMM8GSHsQ3DRifevcNeuE9",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 42613,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmWiqBdjaGohUGydGQg15HwvP7hz3fxiFf9zdk4onSDiiq",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 17708,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "257e9a085e834ffc69af1c7b913d873a3a06ce5bc456372b5a94723c4c613ec9",
+          "formats": [
+            {
+              "uri": "ipfs://QmRyfXSdLoPnijPyVcorwbkKo4RXPV2HBQXpqJ1VV1evEy",
+              "duration": "00:00:52",
+              "fileName": "original.mp4",
+              "fileSize": 69841779,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmTCSg1Ycv6A8WbomzWpqXkWaVX34KcNkWNjjF8RYLU5Fm",
+              "duration": "00:00:52",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 2474990,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmbfaEMPySLoTDuR9c19sSVxEVP2jNYFnXMGHs35hoPNjW",
+              "duration": "00:00:20",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 673502,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmSRZ9PfSxTSnAuMorga4Qd7afLUkEkkGHbZU9KM5Rgvhs",
+              "fileName": "preview_image_2160w.jpg",
+              "fileSize": 121248,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmRztGvYGU1VQA2HYRZoVDEvDqD7pBPrPb93pyfZrEETzT",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 112418,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmQX39xfuYqwJaX8vT6c1kBF5Nt4c9N5ogJLc9vkkxFkEA",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 46827,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmcSxCka9Ew9btDG1n6fr9grV7mZvhL47YfVpT1z3Cbtjr",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 43219,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmeiLb8bQ5LQhVzv8jrMZUHk2gqEPUNhBmj8DUhXdoPydT",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 17956,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "d67bbb22f9a3a16777e0e2c5c708a43bc0c0a6370122d1b5ec68c9115f44deee",
+          "formats": [
+            {
+              "uri": "ipfs://QmZyyEw1px3rwmEfVBN1SM53hWdcx525ksTeXxXKzWYQCT",
+              "duration": "00:00:52",
+              "fileName": "original.mp4",
+              "fileSize": 63987861,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmUZEGQ4e6VXZVFNjSkU4Hojbi8WvvfWcUyeVU6tAr7ywW",
+              "duration": "00:00:52",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 2327548,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmdKgHcxfaBr4jdsNNUjsdxG6wgNGx5Aq2Vd9M4PVuT1t9",
+              "duration": "00:00:20",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 670540,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmcK3Gwg24mCnQn6dF58id2zmkXpv3VyPrwzp4tM6YaEct",
+              "fileName": "preview_image_2160w.jpg",
+              "fileSize": 176331,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmVhL7q2ZrqQ2qjqBfC2mqNpHN8zWcgrDYnVQ8dwLNZunk",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 163672,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmSE1ACy7bS59U6rsX6YuS8azweFnXABAJMBa5x61u51VG",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 67938,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://Qmd6N8dTaVRPDec6W8PCGFWRmmYXYRdHGfiv2wnNsJqMJi",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 62386,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmSRMQnmdRqax1moE9M8dacUmvmbZcFTVbf5HQGi8WaZMj",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 24928,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 70
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 69
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 67
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 65
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 64
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 62
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 60
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 59
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 56
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 53
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 52
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 51
+    }
+  ]
+}

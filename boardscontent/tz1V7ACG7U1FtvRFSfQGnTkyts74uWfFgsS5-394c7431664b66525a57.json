@@ -1,0 +1,95 @@
+{
+  "info": {
+    "id": "9Lt1fKfRZW",
+    "title": "dark window series",
+    "description": "Inspired by the visual conception of an abstract window.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1V7ACG7U1FtvRFSfQGnTkyts74uWfFgsS5",
+      "name": "tz1V7ACG7U1FtvRFSfQGnTkyts74uWfFgsS5",
+      "profile_image_uri": "ipfs://QmWnjp6ddjniWK1oofPqa66sGginHk4FhqHmRyvoR3Pjna",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Black Orbital"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "e2f3fa02b4362e03ee6f9710bae02eb93e24a16b58912328c062e2a24bdd496f",
+          "formats": [
+            {
+              "uri": "ipfs://QmU5zN3wUBJkaqjuFkeRLZ3YY7gmPtFQz6BujJ4ByJsEr4",
+              "duration": "00:00:04.000000",
+              "fileName": "original.mp4",
+              "fileSize": 6868675,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmSKCMxg2i2Uui6zZjWWHSFjHHsRBPyfFyNv3XqPxNJ4rw",
+              "duration": "00:00:04.000000",
+              "fileName": "full_video_512h.mp4",
+              "fileSize": 1532752,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "512x512"
+              }
+            },
+            {
+              "uri": "ipfs://QmRXdrhG6UvK4n4XPXJECZ9MKkwrcmpbbXkSNGK6oEZMF6",
+              "duration": "00:00:04.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 1325093,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmVSifL7nbn5XkAXEovCUuUMuLcJMEeMp9ZrCxUxgxV4H5",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 126371,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmbPAWPLrkdDFfRo3Kfvd48yvBhg7XViLFWzunDMJ2wJK2",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 116130,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmVYsisXRh4brwUfWiyxxtwpw59tsGCCzsEMtNVeSUBXRF",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 35151,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 14391
+    }
+  ]
+}

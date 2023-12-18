@@ -1,0 +1,337 @@
+{
+  "info": {
+    "id": "r1t2fPf46",
+    "title": "Blue  - by cryptEMES",
+    "description": "A collection of blue on Versum. Curated by cryptemes.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1UecmgMghaWovhh9EYfqTrK9gTtaiMtbzs",
+      "name": "tz1UecmgMghaWovhh9EYfqTrK9gTtaiMtbzs",
+      "profile_image_uri": "ipfs://QmdNbH75Weeb2cCMLsSiyAhkaDs2FNUNUaKjnciKrqS17m",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "M. Schulte"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "c2967f5c0f6fd842c9048e0bfa0e332c0f0193ed466b920dfb6c9bdda95d7e46",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeifxzgpupam2o2fzwbil426wetbwfwjxsul3na5dco6jnx23sfnioe",
+              "fileName": "original.png",
+              "fileSize": 7901357,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "2457x2457"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeibjik4fijzfvgrjqzw5qe5eajyskfm6bxzvz5lqpxacu3jhqynifu/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 1605046,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeibjik4fijzfvgrjqzw5qe5eajyskfm6bxzvz5lqpxacu3jhqynifu/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 380465,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeibjik4fijzfvgrjqzw5qe5eajyskfm6bxzvz5lqpxacu3jhqynifu/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 331430,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeibjik4fijzfvgrjqzw5qe5eajyskfm6bxzvz5lqpxacu3jhqynifu/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 70862,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "e11180f288c293d9a3b0c42544f284bbafa0cd30242e80ad886d90834f7d3868",
+          "formats": [
+            {
+              "uri": "ipfs://QmfJYb6oSgGury9TYmK9kpcYcmPjUtJpk2F8DmgFK9hd3m",
+              "fileName": "original.png",
+              "fileSize": 67059965,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "4441x6621"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmfJYb6oSgGury9TYmK9kpcYcmPjUtJpk2F8DmgFK9hd3m",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x805"
+              }
+            },
+            {
+              "uri": "ipfs://QmZP85YiFN2YKZYCbfMDPSrdLS7UPyi78QFYB1Ew5YJ6GG",
+              "fileName": "cover_valdivia.jpg",
+              "fileSize": 273796,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "686x1024"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmfJYb6oSgGury9TYmK9kpcYcmPjUtJpk2F8DmgFK9hd3m",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x402"
+              }
+            },
+            {
+              "uri": "ipfs://QmeADt5atTQnBopDbCHVqwna98Lu1sgEt8qeWWLq2VgwAy",
+              "fileName": "thumbnail_valdivia.jpg",
+              "fileSize": 33938,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "234x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmfJYb6oSgGury9TYmK9kpcYcmPjUtJpk2F8DmgFK9hd3m",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x201"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmfJYb6oSgGury9TYmK9kpcYcmPjUtJpk2F8DmgFK9hd3m",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x54"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "99ef7f4d619bdd36deeea19738581929d6bc7ad59b3d8c690c9976cbbfd22f6f",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeidc2loxyb23mdye7jjzdbzryrg4labnodcuwco47xyhpud4svsjcy",
+              "fileName": "original.jpg",
+              "fileSize": 13660574,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3000x3000"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeialckqtbtrppdqnihundph3wtktnhlochqsdcfohv5s2jgvooyz5m/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 955897,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeialckqtbtrppdqnihundph3wtktnhlochqsdcfohv5s2jgvooyz5m/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 212444,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeialckqtbtrppdqnihundph3wtktnhlochqsdcfohv5s2jgvooyz5m/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 190223,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeialckqtbtrppdqnihundph3wtktnhlochqsdcfohv5s2jgvooyz5m/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 59671,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "8a8414c42ea66d4c1a6a62a09e5cdc3a539551f3c7a6fa9657dd6fbc8ce7a996",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeielbm2jfdojqyhywgh5fi43gs7neacg7zjq7gvr4ksdnwwt5xhkvi",
+              "duration": "00:00:08.000000",
+              "fileName": "original.mp4",
+              "fileSize": 710512,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "512x508"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeic5oqtwgtguhauahafzxnxav4sekow53e2oa46ylb5y7zj74xrlue/media/preview_video_480w.mp4",
+              "duration": "00:00:08.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 159893,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x476"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeic5oqtwgtguhauahafzxnxav4sekow53e2oa46ylb5y7zj74xrlue/media/preview_image_512w.jpg",
+              "fileName": "preview_image_512w.jpg",
+              "fileSize": 13102,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "512x508"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeic5oqtwgtguhauahafzxnxav4sekow53e2oa46ylb5y7zj74xrlue/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 12082,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x476"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31600
+    },
+    {
+      "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+      "tokenId": 802641
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31270
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31245
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 30918
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 30766
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29928
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29921
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29850
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29842
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29820
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29775
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 28247
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 27602
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 26312
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 26306
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 26304
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 24540
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 24230
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 23948
+    }
+  ]
+}

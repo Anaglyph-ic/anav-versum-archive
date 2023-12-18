@@ -1,0 +1,361 @@
+{
+  "info": {
+    "id": "4ot8fzfrY",
+    "title": "B&W Photography",
+    "description": "A collection of Black&White photography on Versum. Curated by cryptEMES.",
+    "cover_uri": "ipfs://QmSEGZTbo2ctJLZCeRscgRMZVrRZtQRyTQkXB2hZ6ifwsg",
+    "private": false,
+    "user": {
+      "id": "tz1UecmgMghaWovhh9EYfqTrK9gTtaiMtbzs",
+      "name": "tz1UecmgMghaWovhh9EYfqTrK9gTtaiMtbzs",
+      "profile_image_uri": "ipfs://QmdNbH75Weeb2cCMLsSiyAhkaDs2FNUNUaKjnciKrqS17m",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "M. Schulte"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "06185294d744321b8d40dcaaaea6f5b784d6c18abf3514a06086c006b6d8f30a",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeih73xgbm5xvnpmcomiargwad3d4oxcc25iboylao4r3web4ky65ta",
+              "fileName": "original.jpg",
+              "fileSize": 3694252,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "4500x2953"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeietfxr6efo4azitqbmcy52hwqhpilfe3czmr2bq46d32smtgnqqeq/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 190907,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x1344"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeietfxr6efo4azitqbmcy52hwqhpilfe3czmr2bq46d32smtgnqqeq/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 61968,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x672"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeietfxr6efo4azitqbmcy52hwqhpilfe3czmr2bq46d32smtgnqqeq/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 56316,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x630"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeietfxr6efo4azitqbmcy52hwqhpilfe3czmr2bq46d32smtgnqqeq/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 18774,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x315"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "f60e124cdf37e684904fe6b3b5d14034728be6efe781a03053d072889a8981da",
+          "formats": [
+            {
+              "uri": "ipfs://QmfPmQ3GngaqZHujuiyBkp9j1NYX4XXia1oxqvEPots9iF",
+              "fileName": "original.jpg",
+              "fileSize": 4146358,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2594x3543"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmfPmQ3GngaqZHujuiyBkp9j1NYX4XXia1oxqvEPots9iF",
+              "fileName": "preview_image_1200w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "1200x879"
+              }
+            },
+            {
+              "uri": "ipfs://QmXPBNu2gm9CYfLMTFdt5eCDWRLqNjCirqPw2PPwv3bRQA",
+              "fileName": "cover_2.jpg",
+              "fileSize": 139057,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "749x1024"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmfPmQ3GngaqZHujuiyBkp9j1NYX4XXia1oxqvEPots9iF",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x439"
+              }
+            },
+            {
+              "uri": "ipfs://QmRW2GKPJrcT7NVvHTWBHzQfBS19BwMroScG2Bj3FsbTWY",
+              "fileName": "thumbnail_2.jpg",
+              "fileSize": 20343,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "256x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmfPmQ3GngaqZHujuiyBkp9j1NYX4XXia1oxqvEPots9iF",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x220"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmfPmQ3GngaqZHujuiyBkp9j1NYX4XXia1oxqvEPots9iF",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x59"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "9a4bfe16c02f18b7b253fefff4e1fa59b8db8d9988cf01b9d5eedf726dab9beb",
+          "formats": [
+            {
+              "uri": "ipfs://QmcT1LoT5quptXoPnY7Hjwuzj3Hi1r6JXYVMLkqm6GM2Jz",
+              "fileName": "original.jpg",
+              "fileSize": 955324,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1650x996"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/gallery/ipfs/QmcT1LoT5quptXoPnY7Hjwuzj3Hi1r6JXYVMLkqm6GM2Jz",
+              "fileName": "preview_image_1200h.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "724x1200"
+              }
+            },
+            {
+              "uri": "ipfs://QmdhwbLkcAypP5TaNpGS9xuQxSn9XdQAZTtXjVmBkSfx6W",
+              "fileName": "cover_P6250082.jpg",
+              "fileSize": 67580,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x618"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmcT1LoT5quptXoPnY7Hjwuzj3Hi1r6JXYVMLkqm6GM2Jz",
+              "fileName": "preview_image_600h.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "362x600"
+              }
+            },
+            {
+              "uri": "ipfs://QmdWjN7wKVdaCbYQMDdKZoCMMJGSBQM9KXhBWFxXkZ3dAb",
+              "fileName": "thumbnail_P6250082.jpg",
+              "fileSize": 7370,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x211"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmcT1LoT5quptXoPnY7Hjwuzj3Hi1r6JXYVMLkqm6GM2Jz",
+              "fileName": "preview_image_300h.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "181x300"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmcT1LoT5quptXoPnY7Hjwuzj3Hi1r6JXYVMLkqm6GM2Jz",
+              "fileName": "preview_image_80h.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "48x80"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "f5ef81a9367f3a4811840f5e78063e33f8f146aff0e890b36f2b47168a824926",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeihctvlaykk4dipaus4vr2zpqvofae4rtvpklyza76ypbdt3xi7mia",
+              "fileName": "original.jpg",
+              "fileSize": 1838841,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3600x2400"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieymkdhfxcglanyihyiwaezipfmvz6t3kbyg4o7unzr5qif2m4hrm/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 498200,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x1365"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieymkdhfxcglanyihyiwaezipfmvz6t3kbyg4o7unzr5qif2m4hrm/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 118760,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x683"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieymkdhfxcglanyihyiwaezipfmvz6t3kbyg4o7unzr5qif2m4hrm/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 100815,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x640"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieymkdhfxcglanyihyiwaezipfmvz6t3kbyg4o7unzr5qif2m4hrm/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 17091,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x320"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 33605
+    },
+    {
+      "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+      "tokenId": 802930
+    },
+    {
+      "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+      "tokenId": 802560
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31010
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 23679
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 23280
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 22549
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 22456
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 22455
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 22037
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21896
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21692
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21644
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21623
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 20228
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19329
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19310
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19078
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19076
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19055
+    }
+  ]
+}

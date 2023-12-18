@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "5qtWfZfKjb",
+    "title": "🖤",
+    "description": "(a selfportrait through the art of others?)",
+    "cover_uri": "ipfs://bafkreiey5zhnudmhkfutaevl3hmnesetrreaehp4gdwi2x7vmznd3tuylm",
+    "private": false,
+    "user": {
+      "id": "tz1Up3Uyj6PR3AkdsaXouhhetS3VdaTkW2Ro",
+      "name": "tz1Up3Uyj6PR3AkdsaXouhhetS3VdaTkW2Ro",
+      "profile_image_uri": "https://services.tzkt.io/v1/avatars/tz1Up3Uyj6PR3AkdsaXouhhetS3VdaTkW2Ro",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Anna Malina"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "2df451221e0bda435d3d004229ad8484bf5ca6d9b9839b3b074f638d969ad594",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeihss5dbqxolwip2uytga4z3oqfctgtua5xcjk2u3u7reogc2ztelu",
+              "fileName": "original.jpg",
+              "fileSize": 8421517,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2884x2913"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihucnhthkxd5qi4ddydj5ugidgqi4zlpiztmr72qz76wyvq6eguyu/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 1248859,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2069"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihucnhthkxd5qi4ddydj5ugidgqi4zlpiztmr72qz76wyvq6eguyu/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 299746,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1034"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihucnhthkxd5qi4ddydj5ugidgqi4zlpiztmr72qz76wyvq6eguyu/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 259250,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x970"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeihucnhthkxd5qi4ddydj5ugidgqi4zlpiztmr72qz76wyvq6eguyu/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 52839,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x485"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 30339
+    }
+  ]
+}

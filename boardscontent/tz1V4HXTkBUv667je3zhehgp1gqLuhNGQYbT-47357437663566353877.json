@@ -1,0 +1,74 @@
+{
+  "info": {
+    "id": "G5t7f5f58w",
+    "title": "Demo",
+    "description": "Demo",
+    "cover_uri": null,
+    "private": false,
+    "user": {
+      "id": "tz1V4HXTkBUv667je3zhehgp1gqLuhNGQYbT",
+      "name": "tz1V4HXTkBUv667je3zhehgp1gqLuhNGQYbT",
+      "profile_image_uri": "https://iibusiness.s3-eu-central-1.amazonaws.com/xh_avatar.png",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "xavierhernandez"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "12873a57f319614d463defa30edf8fb5d760f04f66cf99baf2227b69a453c8fd",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeiaap6bzolsdpe25hixkuxnhs5kd4eznlpl7n6wufeqweeubskayjy",
+              "duration": "00:00:07.240000",
+              "fileName": "original.gif",
+              "fileSize": 28179782,
+              "mimeType": "image/gif",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeied4wjeolfqymb7wd7tk7zegh7ol24e5wf5t4wxrfbxod2clc76oa/media/preview_video_480w.mp4",
+              "duration": "00:00:07.240000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 2630207,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeied4wjeolfqymb7wd7tk7zegh7ol24e5wf5t4wxrfbxod2clc76oa/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 200441,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeied4wjeolfqymb7wd7tk7zegh7ol24e5wf5t4wxrfbxod2clc76oa/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 61393,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31000
+    }
+  ]
+}
