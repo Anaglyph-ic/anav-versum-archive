@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "eRt6fqfebj",
+    "title": "darkwave series",
+    "description": "Inspired by the movement of colorful mesh waves.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "name": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "profile_image_uri": "https://marcelokato.com/xtz-prof/mtk-icon.jpg",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Marcelo Kato"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f094bb6df4c4de2a6e495dfd6483e52d87fcebd462376267bc14000053716cb2",
+          "formats": [
+            {
+              "uri": "ipfs://Qmde9p8shvC4SvincvEevSnZ4r5tqPTgmaxVg4A77d1MSs",
+              "duration": "00:00:04.000000",
+              "fileName": "original.mp4",
+              "fileSize": 12384621,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmTN2QTpzn6SdChwvGCDuLtVULSdCL7jmTeUFMrGahj7Vc",
+              "duration": "00:00:04.000000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 3420274,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmdiNV3CtdDXhXDeboJQqwKK7mx8ow27Wy2EqRNMQ5Fzef",
+              "duration": "00:00:04.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 1148875,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmdJjTLctTQyci1Rk8vVdStn2aKLCawtinLZfBGQbJNg9G",
+              "fileName": "preview_image_1080w.jpg",
+              "fileSize": 230278,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmX6H2REtjNYanrUN12BSYRa6izXX3jyhkfDBga4E3c6G5",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 188155,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmfVnU2h2Q7dqBNQuGJce9x8Je1RSQAMdjCRGaBAw5KEuk",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 163728,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmRcz5sMSknssr3s4iygLRjPc5CrdAVLv4wvQveRbtAg36",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 34864,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 5799
+    }
+  ]
+}

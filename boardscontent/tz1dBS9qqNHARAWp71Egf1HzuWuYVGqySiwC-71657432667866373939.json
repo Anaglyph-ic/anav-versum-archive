@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "qet2fxf799",
+    "title": "Vetro - Analogue Generative",
+    "description": "Generative art refers to art that has been created with the use of an autonomous system. An autonomous system that can independently determine features of an artwork that would otherwise require decisions made directly by the artist. This board wants to document analogue approaches to this praxis. ",
+    "cover_uri": null,
+    "private": false,
+    "user": {
+      "id": "tz1dBS9qqNHARAWp71Egf1HzuWuYVGqySiwC",
+      "name": "tz1dBS9qqNHARAWp71Egf1HzuWuYVGqySiwC",
+      "profile_image_uri": "https://cdn.shopify.com/s/files/1/0561/8817/4542/files/VetroLogoNew-sq-w_480x480.jpg?v=1637793490",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Vetro Editions"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f320b30fce5960e9d6c6de2de634da7f977193ca0fede081369c6fb37cb9213c",
+          "formats": [
+            {
+              "uri": "ipfs://QmQQPqsQw84ezV8GufwvGVzkcnMgMzAotbaSqZGvwtFaVN",
+              "fileName": "original.jpg",
+              "fileSize": 16615647,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "5906x5906"
+              }
+            },
+            {
+              "uri": "ipfs://QmcmWAfuufEbPWB6s43tXonKsjzJSFWffPR72BrngB8fR2",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 265914,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmbbyEDGeTxddXkFwHfg94mo1VPMpQCFMPPvEs3yvUuJu9",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 91186,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmWqsRFgMqoEHf73L9viJTaggzQn2K9xvWid3VUUonihQp",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 83576,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmcvUWTXqartGUrVSRVdHNebA2iPfUsBBSDXvHACuuGkhM",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 31466,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 21191
+    }
+  ]
+}

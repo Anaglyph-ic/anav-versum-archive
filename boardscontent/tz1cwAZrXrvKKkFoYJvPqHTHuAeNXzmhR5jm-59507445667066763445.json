@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "YPtEfpfv4E",
+    "title": "cybermedusa series",
+    "description": "Inspired by the shape and movements of abstract jellyfishes.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "name": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "profile_image_uri": "https://marcelokato.com/xtz-prof/mtk-icon.jpg",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Marcelo Kato"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "ef5ac1b433e3bf7f793c27dd4a6cc9b94518ba51d47b4f7817cd87b1b702efdc",
+          "formats": [
+            {
+              "uri": "ipfs://QmbbQU3sQgcm64Ef9KNxctSHN22FwCZwK98quD3peut9eL",
+              "duration": "00:00:04.000000",
+              "fileName": "original.mp4",
+              "fileSize": 5029498,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmcoFiVmiU31N7cbjK6YoJjSgewCs58ub5Aawi2MXA48KD",
+              "duration": "00:00:04.000000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 1829436,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmanC9jz9g9RVgvPgFKiNFCmcjfWHfQYbtf9ar2eGSSWq7",
+              "duration": "00:00:04.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 838001,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmNq5t5KtMUqkDYk9rpWQ1BhCWvtUkVV6fiCb2ohH1f9Zb",
+              "fileName": "preview_image_1080w.jpg",
+              "fileSize": 100104,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmU5CFubcn2xC75diuyBRCixChNpjyWnumy18Unj6rgRVB",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 87134,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmShHRhUde2c5pD1rKyyJhdn6JgHWwhRWTPGjQw9qwj8Xs",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 77809,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmSp6mwm63KuijTKrfB37BYr9HswS2Z7tHTxSVRityuUTU",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 23857,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 8291
+    }
+  ]
+}

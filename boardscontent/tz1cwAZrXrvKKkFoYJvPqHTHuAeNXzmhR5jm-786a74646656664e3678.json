@@ -1,0 +1,105 @@
+{
+  "info": {
+    "id": "xjtdfVfN6x",
+    "title": "supernova series",
+    "description": "Inspired by the abstract look of the explosion of a supernova star.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "name": "tz1cwAZrXrvKKkFoYJvPqHTHuAeNXzmhR5jm",
+      "profile_image_uri": "https://marcelokato.com/xtz-prof/mtk-icon.jpg",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Marcelo Kato"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "5b364557db003763f792ab42c6faa16f7e7399d4ff14f2ed34597e3474004b1a",
+          "formats": [
+            {
+              "uri": "ipfs://Qmd655awvRVQvZbqoiWiYswLGtDzzSSoUuDQDqtGcyGogq",
+              "duration": "00:00:04.000000",
+              "fileName": "original.mp4",
+              "fileSize": 5627752,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmcQLEh4eNUZ4LriWxMn3UbdX9CJb1Cb8D6vzKnDccGKrJ",
+              "duration": "00:00:04.000000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 2409727,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmYNUbhWTys1CFtDv4aYVjNeswpv9qSyFN8gsJd7NfWG6P",
+              "duration": "00:00:04.000000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 1091991,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmSxYoBshqehRHnpJD7bwRFCNq3DJTtgstTkwEsySq7eJz",
+              "fileName": "preview_image_1080w.jpg",
+              "fileSize": 12652,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmbtRRpoRS5jhTNENsmNJ2K8HsvcY33rKtYdVy6VQwh5yn",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 11423,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmZDGLNbmSUpz5FcNoATaRJJjrHBhiBth4HRad5TGSmYsd",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 10276,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmetHtQKaWDyJgkvUmFeS3147SLJihpcSmMAb2T5uss9h3",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 3095,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 5541
+    }
+  ]
+}

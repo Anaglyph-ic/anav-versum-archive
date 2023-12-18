@@ -1,0 +1,82 @@
+{
+  "info": {
+    "id": "DDtAfmf7N",
+    "title": "Green",
+    "description": "#008000",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1c7KLq3K18iVSAAG18GuDDo35KgykQ7bo5",
+      "name": "tz1c7KLq3K18iVSAAG18GuDDo35KgykQ7bo5",
+      "profile_image_uri": "ipfs://QmYrobFXeTQz3WwVfzvMB5yRW9KXjfy4k9wnkPNP7ceKaC",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "GraphiK"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "7b2bcda7b57dc9699fdf682f92f53bc12ddc70777c847b6555586d204554f8dd",
+          "formats": [
+            {
+              "uri": "ipfs://QmfC7imk3fDHnKKD5dNZxdRbNzYNuDcHtX4sTaQRpXfFnD",
+              "fileName": "original.png",
+              "fileSize": 875114,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "5485x6916"
+              }
+            },
+            {
+              "uri": "ipfs://QmTa4mJSSCkSEzdPd4XBJR5b5LgaHKhEUkwRxqjWT39iS1",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 269312,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2582"
+              }
+            },
+            {
+              "uri": "ipfs://QmcWgKoy3ezNDNNfDBAFS36c3RZ9WBmeowGMENpdXjnnme",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 116801,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1291"
+              }
+            },
+            {
+              "uri": "ipfs://QmREKboTkwYExAuxBw5Vr2j7YVsUnLbcp2MXQ3s1qZ95cq",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 107543,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1210"
+              }
+            },
+            {
+              "uri": "ipfs://QmVaH1vCz2xBtHBxdvFRhwxcX2vdNiMRWX8JRvrmLJbvnJ",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 48169,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x605"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 10001
+    }
+  ]
+}

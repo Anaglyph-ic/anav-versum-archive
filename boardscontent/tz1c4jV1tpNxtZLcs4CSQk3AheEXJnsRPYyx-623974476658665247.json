@@ -1,0 +1,84 @@
+{
+  "info": {
+    "id": "b9tGfXfRG",
+    "title": "Vectors",
+    "description": "geometries and not only.",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1c4jV1tpNxtZLcs4CSQk3AheEXJnsRPYyx",
+      "name": "tz1c4jV1tpNxtZLcs4CSQk3AheEXJnsRPYyx",
+      "profile_image_uri": "ipfs://QmR4dGJirprTzaT7FSBUepU9axEQeGJiKWKQ8dfRToT7GU",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "cibarius"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "2a97db74d4aadabb967b7f36b9e816f87de89d1556d32ad5ffebe825a0aa737a",
+          "formats": [
+            {
+              "uri": "ipfs://QmWmP97Sef2VKN44e3TS7KDzbKECm5g6mRuFghG1oogQ7Z",
+              "duration": "00:00:04",
+              "fileName": "original.gif",
+              "fileSize": 67511060,
+              "mimeType": "image/gif",
+              "dimensions": {
+                "unit": "px",
+                "value": "2000x2000"
+              }
+            },
+            {
+              "uri": "ipfs://QmZuMLEBe9fjpJcHUmC6QHNbKni4gMJshsrDis5uhbQGSq",
+              "duration": "00:00:04",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 355553,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmcXuD3cQnzCuY6qtAynwUxtR3tTkY1Ug4jR289hHp8cW7",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 346062,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmeABw3sAwbrWxtym6kkPmcJRrEm2Ue4mYNP53QvmMBGbs",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 311457,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmPZdFX6WHq7f8NfyKgp8XSBWXPjc6KLmARF98fpnvEQEq",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 109634,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 2883
+    }
+  ]
+}
