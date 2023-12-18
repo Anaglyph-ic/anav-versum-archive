@@ -1,0 +1,332 @@
+{
+  "info": {
+    "id": "6otefxfgM",
+    "title": "Black and white and some grey.",
+    "description": "TOCA ME collection",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1ZhimgHgutqRAy229UuadFCnYCtybjrJpL",
+      "name": "tz1ZhimgHgutqRAy229UuadFCnYCtybjrJpL",
+      "profile_image_uri": "https://services.tzkt.io/v1/avatars/tz1ZhimgHgutqRAy229UuadFCnYCtybjrJpL",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "TOCA ME"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f8b5b95973c3dc5324005b19dd57156e0f0ff4f32fc8698921d9a3d9391626e0",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeie4nf37kwi3qraypg47nu2r5bzvrh54zngmixruqrmyqtqy33wuj4",
+              "fileName": "original.jpg",
+              "fileSize": 1804035,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2100x2800"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigvxnj7r4rc6pzp6f2pbfoilgperoq5xorj6hqgsoj4dlqse3nxe4/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 466814,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2731"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigvxnj7r4rc6pzp6f2pbfoilgperoq5xorj6hqgsoj4dlqse3nxe4/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 138277,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1365"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigvxnj7r4rc6pzp6f2pbfoilgperoq5xorj6hqgsoj4dlqse3nxe4/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 121854,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1280"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigvxnj7r4rc6pzp6f2pbfoilgperoq5xorj6hqgsoj4dlqse3nxe4/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 36674,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x640"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "70d78829911ac68b3b6efb901962046500c2d3c5f78899f40a6ba0b848e004c5",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeifrpf2md2ypffoblrcpvubqwtqj7ikwoklwl7nk3i5vdvuk5lbi3a",
+              "fileName": "original.jpg",
+              "fileSize": 2627827,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "3000x3000"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieyfymu7rylh3uouphmdnlsbwmrgebih33zlx2yuglxbeh2blf4ze/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 821379,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieyfymu7rylh3uouphmdnlsbwmrgebih33zlx2yuglxbeh2blf4ze/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 291963,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieyfymu7rylh3uouphmdnlsbwmrgebih33zlx2yuglxbeh2blf4ze/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 263639,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeieyfymu7rylh3uouphmdnlsbwmrgebih33zlx2yuglxbeh2blf4ze/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 81181,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "f699a8bbf5a38f7699d531404bf48dac9b30143ae23d856a199a3c0998d37bcf",
+          "formats": [
+            {
+              "uri": "ipfs://QmSqwLPMHqmLPTijA7fcKyatLtn68HaG6DLBx2SZx7KiMZ",
+              "duration": "00:00:21.521500",
+              "fileName": "original.mp4",
+              "fileSize": 44688187,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://QmcyC9vWdUqK8XusZSjmTG1Hnmn2RZ9gpx1fSjCrAu1vcU",
+              "duration": "00:00:21.522000",
+              "fileName": "full_video_720h.mp4",
+              "fileSize": 1853044,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "720x720"
+              }
+            },
+            {
+              "uri": "ipfs://QmTEtoXRVQnJNsZyRJkWb3QXkCehFHZe44UCeZ4CP3hKbQ",
+              "duration": "00:00:20.004000",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 1060725,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmbRtFiUU97yeFX47kpTt5T7SeEYTnLEDmFPXe5xGBuHzq",
+              "fileName": "preview_image_1080w.jpg",
+              "fileSize": 83152,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1080x1080"
+              }
+            },
+            {
+              "uri": "ipfs://Qme4w6Fa9BtPBUCRyy3prLrUUByusibAo4gvNHUf3DjzPP",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 77426,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmNnH7fcXKzRDcGMToYGwn5MfRDqwBbF26gxBQRyts2KpA",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 77266,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmeY5MzsBvcLoqi8Nj8VGShkB24RZvjtnJntb56htbpFQX",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 30289,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "5ef7f8d669455c63162ac9a31add46f6c383f3f54d18fe8ced64ec0b7b410b46",
+          "formats": [
+            {
+              "uri": "ipfs://QmURAWb8o23yajxHDdghS7qm5W9YmfmKPrKbkiEGQv8GFW",
+              "fileName": "original.jpg",
+              "fileSize": 699835,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1000x1000"
+              }
+            },
+            {
+              "uri": "ipfs://QmWFcupnRGBeYXDE5AsHKgpoKX4Eo82Yfk6PA9HzaJAadH",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 251896,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmZr97ShJqHGPKWtsDnZdchKK1EF6wqCmHXCRTEe29mmBL",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 66065,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 29907
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 28099
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 25165
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 25040
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 25022
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 19365
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 18903
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 14487
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 13452
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 12051
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 10167
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 9662
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 8390
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 7098
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 4370
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3976
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3948
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3916
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3786
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3623
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "info": {
+    "id": "6otefxfwx",
+    "title": "Tweetcart Token Club 2021-2022",
+    "description": "The tweetcarts for the 2021-2022 Tweetcart Token Club: https://teia.art/objkt/414400",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt",
+      "name": "tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt",
+      "profile_image_uri": "ipfs://bafkreigtrghyeix3dtxppfnp5lo32rlkcsltqkl74frn53er7tdrs3axcu",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "aebrer - Andrew Brereton"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "7566b75f4be7552247668fb8afee574a55d0d6cda1e61d6addaf4e8dcab43b68",
+          "formats": [
+            {
+              "uri": "ipfs://QmY1dNtP1Xh6N5AXSDVAxmtg4fqpTvDd9JGtB1aAKSSnTG",
+              "fileName": "",
+              "fileSize": 1640820,
+              "mimeType": "application/x-directory",
+              "dimensions": {
+                "unit": "ratio",
+                "value": "1:1"
+              }
+            },
+            {
+              "uri": "ipfs://QmfDXTi8juDz4wRqFYAUw8MYqmMJC3LL3APVvTU6LyBiVZ",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 66677,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmQSMYh1AHeqtLhhyGNzjZyyDbE7eHkWrgPipwfyix7Np2",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 28632,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "6a183abf8b2e7f85f8dc7d9b92432f22595a59eb125a997459f2f53c4b0be536",
+          "formats": [
+            {
+              "uri": "ipfs://QmQa7cJpjiQqNVjaxnSNvpbuMBsRTCPdQyzba2YSNjbEVe",
+              "duration": "00:00:20",
+              "fileName": "preview_video_256w.mp4",
+              "fileSize": 1778299,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "256x256"
+              }
+            },
+            {
+              "uri": "ipfs://QmR84kFyuNztzygftJ8QuSjjj2LjRTyKXNMBh9Jeq8PBqB",
+              "fileName": "",
+              "fileSize": 1617754,
+              "mimeType": "application/x-directory",
+              "dimensions": {
+                "unit": "ratio",
+                "value": "1:1"
+              }
+            },
+            {
+              "uri": "ipfs://QmcG9iH9RhHUWuy695zzN24PdoPoG2MY83NwiTShibvNZV",
+              "fileName": "preview_image_256w.jpg",
+              "fileSize": 46575,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "256x256"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 14383
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 727
+    }
+  ]
+}
