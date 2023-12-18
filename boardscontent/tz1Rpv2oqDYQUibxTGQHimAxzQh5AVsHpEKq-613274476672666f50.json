@@ -1,0 +1,143 @@
+{
+  "info": {
+    "id": "a2tGfrfoP",
+    "title": "TheCoinCollective",
+    "description": "coins of a feather ",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1Rpv2oqDYQUibxTGQHimAxzQh5AVsHpEKq",
+      "name": "tz1Rpv2oqDYQUibxTGQHimAxzQh5AVsHpEKq",
+      "profile_image_uri": null,
+      "verified": false,
+      "verified_on_chain": false,
+      "screen_name": null
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "7d956b0570ea16d6959ecac87494e33a6f5867ffa1b55ca4efca826ef791642e",
+          "formats": [
+            {
+              "uri": "ipfs://QmRpaeh6keFaH117racXkXRtJ9nEaMedWS3V9vR3jr2gwd",
+              "fileName": "original.jpg",
+              "fileSize": 3453593,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmPMH2fh3H4vyoRG2mAjUCKinGu3yfNLA9BjHCuD5yRQHs",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 753042,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmSZnyXjqNRYwCkFoGSfovFyYqyhjqk2YJgsBcH5JmdCYq",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 242499,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://Qmeq8MFo7o5gDYVu8FpMFcMfu9t1pYzubXJgxBRSo4155b",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 218179,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmaAVg2MtWw8xv22WfsaAszvkSrGhY4F4TwnZsJgMDq7jx",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 70427,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "dd830aa35af8af84d3da21d4c542cb0288291a957574b7b83db4e74b02eb5f8d",
+          "formats": [
+            {
+              "uri": "ipfs://QmQLB2umLgf47naAxAqbEHSoGQ8SMqQanShrAeURjrKHtS",
+              "fileName": "original.jpg",
+              "fileSize": 3956661,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2160x2160"
+              }
+            },
+            {
+              "uri": "ipfs://QmTSKY9nomm9Zpi3ENpVXgbc7VdLRtWYyzNda1iWKGfhk2",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 1026367,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmQCoj59DsERdLfmusYDtb745TbbCWkJvpvD66TVAwNbUJ",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 235157,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmWRkf6vqhTNmFPccM7J8a6WBCFfb3tN6ZPHRr4gpBwrDz",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 205406,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmRZcJpEkTFTC2rMH3e7f5skK7QJPUQBmGfTtyRJuiYjJK",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 53468,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 2454
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 1623
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "id": "9Lt1fKfeG",
+    "title": "Conceptual art",
+    "description": "The idea or concept is the most important aspect of the work",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1RoSufwpFcSSJB4JFSohvBnQbNWzBkqM9q",
+      "name": "tz1RoSufwpFcSSJB4JFSohvBnQbNWzBkqM9q",
+      "profile_image_uri": "ipfs://QmPH26aYSQZH1LtL6vG5vRbTCchRB8RLtnWciiwwhbwg1o",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Friend"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "3cad6ca66334055103bda5ea2f5586a65b96d618bfb6982c8c20a432e07c8a84",
+          "formats": [
+            {
+              "uri": "ipfs://QmTxhpFZm1ifG2Raiorm82rNYsN5Lc7frCswj2osyW2gSz",
+              "fileName": "original.jpg",
+              "fileSize": 284637,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2200x2200"
+              }
+            },
+            {
+              "uri": "ipfs://QmYWJQ7NFsvHPu3v24x5JFEcC17a6W5ct6zQYQyPJdWqDq",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 152532,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmdqukohNFBXuYFfjc5uFqLRexQ5grtaxLj8HTHNDVNanm",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 60143,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmU1nVHDDhabooFDTEqGhKdbYSovbvP4RhkLQpU2YGYyRj",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 55584,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmdGv2LwsHPrwjrKeufk6UiFN778nCtXQyuWkwFqdUumUM",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 21407,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "1b5d34c8b80bf90c26ead34b6eb1cc30cea0f608b9c46497c463e492ad3f6a68",
+          "formats": [
+            {
+              "uri": "ipfs://QmNTVm8VrtJiQgQE7ikatHVEGYpm3jRp5nmmY3Ewn1abMb",
+              "fileName": "original.jpg",
+              "fileSize": 241160,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "498x498"
+              }
+            },
+            {
+              "uri": "ipfs://QmYAmkrKgh83N49TceDQFki3W3GkjvQFxjNueBncpJFdYd",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 30307,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 14710
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 8014
+    }
+  ]
+}

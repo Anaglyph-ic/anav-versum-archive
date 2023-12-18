@@ -1,0 +1,246 @@
+{
+  "info": {
+    "id": "vXtnfOfD2y",
+    "title": "AI assisted Art",
+    "description": "Art made with the help of AI technology.\nSome final artworks are based on original handmade artworks feeded in AI, Some others are processed digitally after AI output",
+    "cover_uri": "ipfs://bafkreidv6pc54et7lfjwixtjznztz2lyfvutibr4epcxyfrr265dzsfeqa",
+    "private": false,
+    "user": {
+      "id": "tz1Sz6Fnt2wGG6UBzC8u9fRM4yoA33Q87vNQ",
+      "name": "tz1Sz6Fnt2wGG6UBzC8u9fRM4yoA33Q87vNQ",
+      "profile_image_uri": "ipfs://bafkreidj6dpyhdf5nvrklqt5zvspsboeubat6cmh2iryj723k5g576c3la",
+      "verified": false,
+      "verified_on_chain": true,
+      "screen_name": "Margo"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "9c395fcd10a4bf1e8a4bd44f73a9775f8fecf31aab79b08c7ff5c73693dc80de",
+          "formats": [
+            {
+              "uri": "ipfs://bafkreihl3odvkqj2jvikmiwovwdh5n2urjmqjozapfvz3qqlszpgy2thyq",
+              "fileName": "original.jpg",
+              "fileSize": 108739,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "768x768"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeidbqinop52jmnivkn3zr7lp4sipssbul75svpvdks2hphibs7jtbu/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 34747,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "17fac8eae84b4fab8ba63cbe714f2525173a5378ff68203cf3765e5596d55251",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeihfurinivpbuje64dynvthnl5k4ijwgk7whmka5zsin4ht5fdsxpm",
+              "fileName": "original.png",
+              "fileSize": 10659432,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "4096x5120"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigrwrj4tphyexyqawtfozi3htv5zm2uwjeafmx2lcprhxqy647a24/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 337843,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2560"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigrwrj4tphyexyqawtfozi3htv5zm2uwjeafmx2lcprhxqy647a24/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 159590,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1280"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigrwrj4tphyexyqawtfozi3htv5zm2uwjeafmx2lcprhxqy647a24/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 148622,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1200"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeigrwrj4tphyexyqawtfozi3htv5zm2uwjeafmx2lcprhxqy647a24/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 69371,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x600"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "b9d673a2a19711e01c3e3af63e153a951cd41a29a7dff7d1a05a0ecb463b5b2c",
+          "formats": [
+            {
+              "uri": "ipfs://bafybeia7i6aonx363nagv67nqvryprgcjawj7qcq25xskewgpfkbx2hqom",
+              "fileName": "original.png",
+              "fileSize": 11217316,
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "4096x5120"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeiay3gk7h77inzh4wty4gjzkrtmhbdtzg7vqswyfp32oogkphqhvya/media/preview_image_2048w.jpg",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 222158,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2560"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeiay3gk7h77inzh4wty4gjzkrtmhbdtzg7vqswyfp32oogkphqhvya/media/preview_image_1024w.jpg",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 99690,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1280"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeiay3gk7h77inzh4wty4gjzkrtmhbdtzg7vqswyfp32oogkphqhvya/media/preview_image_960w.jpg",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 93554,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x1200"
+              }
+            },
+            {
+              "uri": "ipfs://bafybeiay3gk7h77inzh4wty4gjzkrtmhbdtzg7vqswyfp32oogkphqhvya/media/preview_image_480w.jpg",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 42597,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x600"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "51739efca99e19cc0653411b2a7d60aa39d01cd339f772595c47b6a7bd24b953",
+          "formats": [
+            {
+              "uri": "ipfs://QmaM5Reu7CsQDZWDCTe5wbpwK3njgyRtHTVs8Wf5MVp2vd",
+              "fileName": "original.jpg",
+              "fileSize": 85035,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "768x768"
+              }
+            },
+            {
+              "uri": "ipfs://Qmc3PcGP5UsdQHTDnWi9pAtmCAMr4VavFfaum8XeRhHzyr",
+              "fileName": "cover_girlsgang.jpg",
+              "fileSize": 81326,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "768x768"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/medium/ipfs/QmaM5Reu7CsQDZWDCTe5wbpwK3njgyRtHTVs8Wf5MVp2vd",
+              "fileName": "preview_image_600w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "600x600"
+              }
+            },
+            {
+              "uri": "ipfs://QmdumpbuaEtxRx2F63BjgMpszV8LWq26aqpHpT38aKHmix",
+              "fileName": "thumbnail_girlsgang.jpg",
+              "fileSize": 16412,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "350x350"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/small/ipfs/QmaM5Reu7CsQDZWDCTe5wbpwK3njgyRtHTVs8Wf5MVp2vd",
+              "fileName": "preview_image_300w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "300x300"
+              }
+            },
+            {
+              "uri": "https://static.tcinfra.net/media/icon/ipfs/QmaM5Reu7CsQDZWDCTe5wbpwK3njgyRtHTVs8Wf5MVp2vd",
+              "fileName": "preview_image_80w.png",
+              "mimeType": "image/png",
+              "dimensions": {
+                "unit": "px",
+                "value": "80x80"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31990
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31980
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 31971
+    },
+    {
+      "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+      "tokenId": 806808
+    },
+    {
+      "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+      "tokenId": 789946
+    }
+  ]
+}

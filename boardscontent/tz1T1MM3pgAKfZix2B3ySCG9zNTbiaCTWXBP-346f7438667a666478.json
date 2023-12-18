@@ -1,0 +1,52 @@
+{
+  "info": {
+    "id": "4ot8fzfdx",
+    "title": "ΕΞΗ PRSONAS",
+    "description": "Characters",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1T1MM3pgAKfZix2B3ySCG9zNTbiaCTWXBP",
+      "name": "tz1T1MM3pgAKfZix2B3ySCG9zNTbiaCTWXBP",
+      "profile_image_uri": "ipfs://bafkreibdsny6rqz5hkslfcytviexh3xshgr3wfqyht3riac4uhcpzqo6ci",
+      "verified": true,
+      "verified_on_chain": true,
+      "screen_name": "Destopic"
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "f82799eca407ddc74e3841143ab955779daa1b331561d2ba547c25657cff7b40",
+          "formats": [
+            {
+              "uri": "ipfs://QmbtQXL45P54REfNrJ1tgJdmgA6bHCvrTuD9X9oj9PoijM",
+              "fileName": "original.jpg",
+              "fileSize": 529067,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "700x910"
+              }
+            },
+            {
+              "uri": "ipfs://QmZin3S5vEHMTxDgXi2j2yDEMXanoyzaLTGutxLVYdiHFs",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 49273,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x624"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 5033
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "info": {
+    "id": "1Ntxf2fRL",
+    "title": "School days",
+    "description": "Gaudeamus igitur,\nIuvenes dum sumus,",
+    "cover_uri": "",
+    "private": false,
+    "user": {
+      "id": "tz1Rpv2oqDYQUibxTGQHimAxzQh5AVsHpEKq",
+      "name": "tz1Rpv2oqDYQUibxTGQHimAxzQh5AVsHpEKq",
+      "profile_image_uri": null,
+      "verified": false,
+      "verified_on_chain": false,
+      "screen_name": null
+    },
+    "tokens": [
+      {
+        "token": {
+          "id": "818a9b821df2ecd6829ccedb750d492979aa93234931967d7950b2ee30ce95a2",
+          "formats": [
+            {
+              "uri": "ipfs://QmUeMMkche5JCeByALUePGJddADNFE1nPCzFTNvoMrhyTw",
+              "fileName": "original.jpg",
+              "fileSize": 104035,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1000x1000"
+              }
+            },
+            {
+              "uri": "ipfs://QmVT9uh11v3QAZGAk8w7hwhkR4tDKWcNTsH5suYr7qFvMi",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 100310,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmdnTzru45hr5rJXGgyeR2KFtRbfNaEnEJutsSG1stP1wV",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 36306,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "token": {
+          "id": "88d0f5e29c21162cd9a553bbca481cf7dc04edb2f2c2fe2b11e517540a26ec05",
+          "formats": [
+            {
+              "uri": "ipfs://QmbTrf1cFFZppPQjz7cZ73pH8GEWXzaPNbu6fTAtJ15XZG",
+              "duration": "00:00:00",
+              "fileName": "original.gif",
+              "fileSize": 7492252,
+              "mimeType": "image/gif",
+              "dimensions": {
+                "unit": "px",
+                "value": "3000x3000"
+              }
+            },
+            {
+              "uri": "ipfs://QmZ9CGd3KG29ZHsHfJxTRwgsxiMvkxLjWjS3XV3g9hs92y",
+              "fileName": "preview_image_2048w.jpg",
+              "fileSize": 1639904,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "2048x2048"
+              }
+            },
+            {
+              "uri": "ipfs://QmXxLwzWCcUTyWLk5XiiqZ4QDYvBKqnXP4wq1J2grJYa5c",
+              "fileName": "preview_image_1024w.jpg",
+              "fileSize": 412484,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "1024x1024"
+              }
+            },
+            {
+              "uri": "ipfs://QmetCagCpdwC1H7XzhqDbmDwvm1c4keb5A3WPq66M727j1",
+              "fileName": "preview_image_960w.jpg",
+              "fileSize": 361973,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "960x960"
+              }
+            },
+            {
+              "uri": "ipfs://QmZ77uybDmCyXzpBshSsur13C4gmP4YVBRSMw9mZKdTk1o",
+              "fileName": "preview_image_480w.jpg",
+              "fileSize": 77532,
+              "mimeType": "image/jpeg",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            },
+            {
+              "uri": "ipfs://QmWZnsk1aeEbyPYufSqHWp7rbXj5RX4HLFVGna7TAsPbNt",
+              "duration": "00:00:00",
+              "fileName": "preview_video_480w.mp4",
+              "fileSize": 67448,
+              "mimeType": "video/mp4",
+              "dimensions": {
+                "unit": "px",
+                "value": "480x480"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 3647
+    },
+    {
+      "contract": "KT1LjmAdYQCLBjwv4S2oFkEzyHVkomAf5MrW",
+      "tokenId": 2664
+    }
+  ]
+}
